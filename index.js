@@ -3,3 +3,4 @@ const array = [...arry, 5, 6];
 console.log(array);
 k;
 hh;
+jj;
